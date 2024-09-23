@@ -49,27 +49,26 @@ plt.show()
 ```
 
 ## Output:
-HEAD() & INFO():
-```
-![image](https://github.com/user-attachments/assets/08a783e0-9057-40b3-a4fa-f3aeaa678364)
-```
+##HEAD() & INFO():
 
-NULL & COUNT:
-```
+![image](https://github.com/user-attachments/assets/08a783e0-9057-40b3-a4fa-f3aeaa678364)
+
+##NULL & COUNT:
+
 ![image](https://github.com/user-attachments/assets/1c752a43-7f90-4ec6-8803-91b387a03ed5)
 ![image](https://github.com/user-attachments/assets/3c926eb5-4951-4d2f-a4de-85e2f5956c8d)
-```
 
-ACCURACY SCORE:
-```
+
+##ACCURACY SCORE:
+
 ![image](https://github.com/user-attachments/assets/15dd4313-48a3-437a-a009-f6ba1dd922bf)
-```
 
 
-DECISION TREE CLASSIFIER MODEL:
-```
+
+##DECISION TREE CLASSIFIER MODEL:
+
 ![image](https://github.com/user-attachments/assets/1ab0cb66-868b-4272-a0ad-4c64efe567a8)
-```
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
